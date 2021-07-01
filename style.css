@@ -50,27 +50,26 @@ body{margin-right: 23%;}
    top: 15pxpx;
 }
 #hr{
-   
+   background-image: url(pic/hr-img.png);
  width: 100%;
-  height: 5px;background-color: rgb(24, 12, 14);
+  height:10px;
  margin-bottom: 7px;
  margin-right: auto;  
   margin-left: auto;
   margin-top: 9px;
-   border-width: 4px; 
-     border-color: blue;
+   
+    
            
 }
-#mr{margin-top: 20px;
-   
-    width: 100%;
-     height: 5px;background-color: rgb(24, 12, 14);
-    margin-bottom:71px;
-    margin-right: auto;  
-     margin-left: auto;
-     margin-top: 9px;
-      border-width: 4px; 
-        border-color: blue;
+#mr{
+    background-image: url(pic/hr-img.png);
+  width: 100%;
+   height:10px;
+  margin-bottom: 7px;
+  margin-right: auto;  
+   margin-left: auto;
+   margin-top: 9px;
+    
               
    }
    #ar{
@@ -109,8 +108,9 @@ body{margin-right: 23%;}
       }
       .right {
         position: absolute;
-        bottom: 60px;
+        top: 40px;
         right:40px;
-        display: inline;
+        
       }
+  
       

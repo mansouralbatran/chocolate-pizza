@@ -5,7 +5,7 @@ li{
 
 header{
     position: relative;
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
 
 }
 
@@ -15,18 +15,17 @@ header div{
     position: absolute;
     right: 10px;
     top: 5px;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 
 
 main {
-    border: 1px solid rgb(47, 0, 255);
+    /* border: 1px solid rgb(47, 0, 255); */
     margin-top:5%;
     margin-bottom: 5%;
 }
-footer{ border: 3px solid rgb(21, 12, 105);
-    /* margin-bottom: 20px; */
-}footer a{border: 1px rgb(12, 9, 9); color: rgb(12, 9, 9);
+
+footer a{border: 1px rgb(12, 9, 9); color: rgb(12, 9, 9);
    background-color: rgb(183, 207, 42);
   
 }footer ul li :last-child { 
@@ -39,9 +38,8 @@ body{
 main article{
     margin-top: 30px;margin-bottom: 30px;
 }
-article{
-    border: 1px solid red;
-}
+
+
 body{margin-right: 23%;}
 #m3{ position: relative;
 
